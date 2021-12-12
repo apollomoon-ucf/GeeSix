@@ -12,7 +12,7 @@ The Team:
 - Keilvin Tran (Project Manager)
 - Brian Moon (Frontend, API, Assistant PM)
 - Delroy Jordan (Database, Frontend, API)
-- Taylor Laird (API, API Documentation)
+- Taylor Laird (API, API Documentation|Testing)
 - Rayyan Haque (Frontend)
 
 <img width="1426" alt="Screen Shot 2021-12-12 at 2 04 00 PM" src="https://user-images.githubusercontent.com/25870426/145726351-ec41a47e-04d6-4d07-b37b-b3512729b00f.png">
