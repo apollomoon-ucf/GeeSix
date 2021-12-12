@@ -10,7 +10,7 @@ Link: http://www.kontax.us
 The Team:
 
 - Keilvin Tran (Project Manager)
-- Brian Moon (Frontend, API, Assistant PM)
+- Brian Moon (Frontend, API, Assistant PM, README)
 - Delroy Jordan (Database, Frontend, API)
 - Taylor Laird (API, API Documentation|Testing)
 - Rayyan Haque (Frontend)
